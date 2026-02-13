@@ -8,7 +8,7 @@ Ce projet est un **générateur de mots de passe** en ligne, conçu pour créer 
 
 ## 📸 Aperçu
 
-![Aperçu Password Generator](images/password-generator.png)
+![Aperçu Password Generator](password-generator.png)
 
 ## 🎯 Objectifs du projet
 
